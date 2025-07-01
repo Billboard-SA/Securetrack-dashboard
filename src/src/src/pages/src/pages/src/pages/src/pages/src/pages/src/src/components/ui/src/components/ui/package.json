@@ -6,7 +6,7 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "dependencies": {
+  "dependencies"vite": "^5.2.0": {
     "@headlessui/react": "^1.7.15",
     "leaflet": "^1.9.4",
     "lucide-react": "^0.263.0",
