@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Leaflet map styles */
+@import 'leaflet/dist/leaflet.css';
+
+/* Custom pulsing pin */
+.custom-icon {
+  transform: translate(-50%, -50%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
